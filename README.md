@@ -1,5 +1,4 @@
 Hello, I’m @Gullwolf.
-
 -I work as a Trainee Developer & Customer Support Hybrid.
 -I’m passionate about developing practical systems that integrate into everyday life and creating simulations that reflect real-world scenarios.
 -Currently, I’m expanding my skills in 3D printing and working with APIs in Python, Web development.
