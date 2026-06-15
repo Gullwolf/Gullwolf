@@ -10,7 +10,7 @@ Hello, I’m @Gullwolf.
 
 -You can reach me at georgeocook1@gmail.com.
 
-[![Codewars Profile](https://codewars.com)](https://www.codewars.com/users/Gullwolf/badges)
+[![Codewars Profile](https://codewars.com)](https://www.codewars.com/users/Gullwolf)
 
 
 <!---
