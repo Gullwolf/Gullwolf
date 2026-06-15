@@ -1,6 +1,6 @@
 Hello, I’m @Gullwolf.
 
--I work as a Trainee Developer & Customer Support Hybrid.
+-I work as a Trainee Developer & Customer Support.
 
 -I’m passionate about developing practical systems that integrate into everyday life and creating simulations that reflect real-world scenarios.
 
@@ -10,6 +10,7 @@ Hello, I’m @Gullwolf.
 
 -You can reach me at georgeocook1@gmail.com.
 
+https://www.codewars.com/users/Gullwolf/badges/large
 
 <!---
 Gullwolf/Gullwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
