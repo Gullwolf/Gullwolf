@@ -10,7 +10,8 @@ Hello, I’m @Gullwolf.
 
 -You can reach me at georgeocook1@gmail.com.
 
-https://www.codewars.com/users/Gullwolf/badges/large
+[![Codewars Profile](https://codewars.com)](https://www.codewars.com/users/Gullwolf/badges)
+
 
 <!---
 Gullwolf/Gullwolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
