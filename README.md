@@ -1,6 +1,6 @@
 Hello, I’m @Gullwolf.
 
--I work as a Trainee Developer & Customer Support.
+-My last job was as a Software Developer & Customer Support.
 
 -I’m passionate about developing practical systems that integrate into everyday life and creating simulations that reflect real-world scenarios.
 
